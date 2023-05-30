@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfestival"]=self["webpackChunkfestival"]||[]).push([[682],{5682:function(e,n,t){t.r(n),t.d(n,{default:function(){return s}});var r=t(3396);function u(e,n,t,u,a,f){return(0,r.wg)(),(0,r.iD)("div",null," 이벤트 페이지 ")}var a={name:"EventPage"},f=t(89);const i=(0,f.Z)(a,[["render",u]]);var s=i}}]);
+//# sourceMappingURL=682.c06beb55.js.map
